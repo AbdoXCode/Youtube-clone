@@ -10,7 +10,7 @@ A responsive YouTube clone built using HTML and CSS, replicating key features of
 
 - **Responsive Design**: Adapts to mobile, tablet, and desktop screens.
 - **Header Section**:
-  - Functional search bar with voice search button
+  - search bar with voice search button
   - Navigation icons (Create, Notifications, Profile)
 - **Sidebar Menu**: Fixed navigation with icons for Home, Explore, Subscriptions, and YouTube Music.
 - **Video Grid**: 
