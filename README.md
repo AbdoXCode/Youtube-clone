@@ -2,7 +2,7 @@
 
 A responsive YouTube clone built using HTML and CSS, replicating key features of YouTube's interface with modern styling and layout techniques.
 
-![YouTube Clone Preview](screenshot.jpg)
+![YouTube Clone Preview](screenshots/screenshot1.png)
 
 **Live Demo:** [View Demo](https://abdoxcode.github.io/Youtube-clone/) 
 
