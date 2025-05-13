@@ -34,4 +34,4 @@ A responsive YouTube clone built using HTML and CSS, replicating key features of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/AbdoXCode/youtube-clone.git
